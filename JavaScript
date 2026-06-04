@@ -1,0 +1,9 @@
+describe('Validação de Estabilidade - Fluxo Crítico', () => {
+  it('Deve carregar o sistema e validar o login', () => {
+    cy.visit('https://ambiente-de-homologacao-exemplo.com');
+    cy.get('#username').type('usuario_teste');
+    cy.get('#password').type('senha_segura123');
+    cy.get('#btn-login').click();
+    cy.url().should('include', '/dashboard');
+  });
+});
