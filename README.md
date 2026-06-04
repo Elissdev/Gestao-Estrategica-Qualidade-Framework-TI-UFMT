@@ -69,7 +69,7 @@ Abaixo, um exemplo da implementação de um teste focado na verificação de est
 * Andressa Fernanda Santos Oliveira
 * Daniel Barbosa dos Santos
 * Eduardo Luis Silva Torres
-* Elissandra Santos da Silva (Líder Técnica / QA)
+* Elissandra Santos da Silva (Dev / QA)
 * Fabio Gonzaga Zvir
 * Laíse Vieira
 
